@@ -35,5 +35,6 @@ After uploading, make sure to pin the SoCo extension for easy access.
 Enjoy a clean and neat analytics experience!
 
 **DEMO**
-![Alt text](sample.png)
+<br>
+![Alt text](Sample.png)
 
