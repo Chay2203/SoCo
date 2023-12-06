@@ -33,3 +33,7 @@ After uploading, make sure to pin the SoCo extension for easy access.
 **Now, visit YouTube, and you'll find access to analytics with ease using SoCo.**
 <br>
 Enjoy a clean and neat analytics experience!
+
+**DEMO**
+![Alt text](sample.png)
+
